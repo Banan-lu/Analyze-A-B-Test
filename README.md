@@ -1,4 +1,4 @@
-# Analyze-A-B-Test
+# Analyze-A/B-Test
 This project is part of Udacity Data Analyst Nanodegree program.
 
 # Project Details
